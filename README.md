@@ -39,7 +39,7 @@ This repository contains an advanced Bash script for conducting a comprehensive 
 1. Clone the repository to your local machine.
 
 `
-git clone [https://github.com/yourusername/advanced-network-assessment.git](https://github.com/fagun18/Web-Application-Testing.git)
+git clone https://github.com/fagun18/Web-Application-Testing.git
 `
 
 2. Ensure all required tools (Nessus, Nmap, Nikto, SQLMap, BeEF, Metasploit, and sslyze) are installed and accessible in your system's PATH.
