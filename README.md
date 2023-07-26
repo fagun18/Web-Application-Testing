@@ -9,7 +9,7 @@ For Full Documentation: Read :
 
 This repository contains an advanced Bash script for conducting a comprehensive network vulnerability assessment. The script empowers security professionals to identify potential weaknesses and vulnerabilities in both network infrastructure and web applications, strengthening an organization's overall security posture.
 
-![Security Assessment](https://imageurl.com)
+
 
 ## Features
 
