@@ -38,23 +38,23 @@ This repository contains an advanced Bash script for conducting a comprehensive 
 
 1. Clone the repository to your local machine.
 
-\`\`\`bash
+`
 git clone [https://github.com/yourusername/advanced-network-assessment.git](https://github.com/fagun18/Web-Application-Testing.git)
-\`\`\`
+`
 
 2. Ensure all required tools (Nessus, Nmap, Nikto, SQLMap, BeEF, Metasploit, and sslyze) are installed and accessible in your system's PATH.
 
 3. Give execute permissions to the script.
 
-\`\`\`bash
+`
 chmod +x pentest_script.sh
-\`\`\`
+`
 
 ### Usage
 
-\`\`\`bash
+`
 ./pentest_script.sh <target_ip>
-\`\`\`
+`
 
 Provide the target IP address as a command-line argument. The script will execute various security scans, saving the results in separate log files.
 
@@ -82,8 +82,4 @@ For any inquiries or feedback, please reach out to us at [fagun.115946@gmail.com
 END
 )
 
-# Create the README file
-echo "$readme_content" > "$readme_file"
 
-# Print success message
-echo "README file created successfully!"
