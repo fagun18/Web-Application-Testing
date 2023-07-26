@@ -1,14 +1,9 @@
 # Web-Application-Testing
 
-#!/bin/bash
 
-readme_file="README.md"
-
-# Create the contents of the README file
-readme_content=$(cat <<END
 # Advanced Network Vulnerability Assessment Tool
 
-![Network Vulnerability Assessment](https://imageurl.com)
+For Full Documentation: Read :
 
 ## Overview
 
@@ -44,7 +39,7 @@ This repository contains an advanced Bash script for conducting a comprehensive 
 1. Clone the repository to your local machine.
 
 \`\`\`bash
-git clone https://github.com/yourusername/advanced-network-assessment.git
+git clone [https://github.com/yourusername/advanced-network-assessment.git](https://github.com/fagun18/Web-Application-Testing.git)
 \`\`\`
 
 2. Ensure all required tools (Nessus, Nmap, Nikto, SQLMap, BeEF, Metasploit, and sslyze) are installed and accessible in your system's PATH.
@@ -81,7 +76,7 @@ We extend our gratitude to TCM Security (https://tcm-sec.com) for their insights
 
 ## Contact
 
-For any inquiries or feedback, please reach out to us at [email@example.com](mailto:email@example.com).
+For any inquiries or feedback, please reach out to us at [fagun.115946@gmail.com](mailto:fagun115946@gmail.com).
 
 **Disclaimer:** This tool is provided for educational and learning purposes only. Usage for any illegal activities or unauthorized assessments is strictly prohibited. The developers of this tool are not responsible for any misuse or consequences arising from its use. Always obtain proper authorization before conducting security assessments on any network or application.
 END
