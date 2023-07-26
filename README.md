@@ -3,7 +3,7 @@
 
 # Advanced Network Vulnerability Assessment Tool
 
-For Full Documentation: Read :
+For Full Documentation: Read : https://www.linkedin.com/pulse/advanced-network-vulnerability-assessment-approach-using-fagun
 
 ## Overview
 
